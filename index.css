@@ -107,6 +107,9 @@
     height: 60vh;
     max-height: 350px;
   }
+  .operator {
+    margin-top: 20px;
+  }
 }
 
 @media screen and (max-height: 450px) {

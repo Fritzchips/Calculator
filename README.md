@@ -23,4 +23,4 @@ I wanted to create this project to expand my knowledge of operators and event li
 
 ---
 
-- **Fritz Solibio** - _Software Development Mastermind Student_
+- **Fritz Solibio** - _Software Developer_ [LinkedIn](https://www.linkedin.com/in/fritz-solibio-4aa9b321b/) | [Website](https://www.fritzsolibio.ca/)
